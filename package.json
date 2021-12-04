@@ -1,7 +1,6 @@
 {
   "name": "5-projektas-sign-in",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "live-server --port=3000",
@@ -9,5 +8,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dovydas1z/5-projektas-sign-in.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dovydas1z/5-projektas-sign-in/issues"
+  },
+  "homepage": "https://github.com/Dovydas1z/5-projektas-sign-in#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }
