@@ -16,7 +16,7 @@ Design: https://cdn.discordapp.com/attachments/850245533838868480/85024636821490
 ## Project features
 
 - Github pages (multi-page)
-- CSS
+- CSS.
 - Html form
 - background images
 - Image
