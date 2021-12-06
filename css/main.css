@@ -24,7 +24,25 @@ body {
     background-color: #494eac;
     margin-top: 20px;
     padding: 40px;
+    color: white;
     
+}
+
+.main-title {
+    display: inline-block;
+    font-weight: normal;
+    width: 100%;
+    font-size: 32px;
+}
+
+.bottom-links {
+display: inline-block;
+width: 100%;
+}
+
+.bottom-links > .link {
+    color: white;
+    font-size: 14px;
 }
 
 .right-column {
@@ -34,16 +52,8 @@ body {
     background-color: #fff;
 }
 
-.btn {
-    background-color: rgb(107, 107, 211);
-    padding: 15px;
-    padding-left: 40px;
-    padding-right: 40px;
-    border-radius: 4px;
-    line-height: 20px;
-    font-size: 24px;
-    text-decoration: none;
-    color: #fff;
-    cursor: pointer;
+.close {
+    display: inline-block;
+    background-color: red;
 }
 
