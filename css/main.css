@@ -14,18 +14,17 @@ body {
 .container {
     display: inline-block;
     width: 800px;
-    margin-top: 100px;
+    margin-top: 65px;
     margin-left: calc(50% - 400px);
 }
 
 .left-column {
     width: 40%;
     float: left;
-    background-color: #494eac;
     margin-top: 20px;
     padding: 40px;
     color: #fff;
-    background-image: url(../images/MicrosoftTeams-image.png);
+    background-image: url(../images/hill.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -60,4 +59,3 @@ width: 100%;
     display: inline-block;
     background-color: red;
 }
-
