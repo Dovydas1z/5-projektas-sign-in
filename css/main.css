@@ -59,3 +59,22 @@ width: 100%;
     display: inline-block;
     background-color: red;
 }
+
+.right-column span {
+display: inline-block;
+padding: 15px;
+line-height: 20px;
+font-size: 18px;
+}
+
+.right-column a {
+display: inline-block;
+padding: 15px;
+font-size: 18px;
+text-decoration: none;
+line-height: 20px;
+}
+
+.right-column a:hover {
+    text-decoration: underline;
+}
